@@ -7,7 +7,7 @@
 ### AES VISUALIZATION TOOL
 
 **This is a learning tool/visualization of the AES encryption process.**<br>
-*You need to install and enable Java to run this application. \[See [how to install Java](https://www.java.com/en/download/help/download_options.xml)\]*
+*You need to install and enable Java to run this application. \[See [how to install Java](https://www.java.com/en/download/help/download_options.xml){:target="_blank"}\]*
 
 Download here: [AES Visualization Tool](https://github.com/ia-fptu/ia-fptu.github.io/blob/master/AES_Visualization.jar?raw=true)
 
