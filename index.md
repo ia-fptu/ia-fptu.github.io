@@ -9,22 +9,4 @@
 #### *This is a learning tool / visualization of the AES encryption process.*<br>
 **You need to install and enable Java to run this application. See [how to install Java.](https://www.java.com/en/download/help/download_options.xml)**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Download here: [AES Visualization Tool](https://github.com/ia-fptu/ia-fptu.github.io/blob/master/AES_Visualization.jar)
