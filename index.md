@@ -11,5 +11,5 @@
 
 Download here: [AES Visualization Tool](https://github.com/ia-fptu/ia-fptu.github.io/blob/master/AES_Visualization.jar?raw=true)
 
-Demo:
+Screenshoot:
 ![Demo AES Visualization Tool](https://raw.githubusercontent.com/ia-fptu/ia-fptu.github.io/master/Screenshot_AES_Visualization.PNG)
