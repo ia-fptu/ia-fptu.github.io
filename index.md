@@ -6,7 +6,7 @@
 
 ### AES VISUALIZATION TOOL
 
-*This is a learning tool / visualization of the AES encryption process.*<br>
+#### *This is a learning tool / visualization of the AES encryption process.*<br>
 **You need to install and enable Java to run this application. See [how to install Java.](https://www.java.com/en/download/help/download_options.xml)**
 
 ```markdown
