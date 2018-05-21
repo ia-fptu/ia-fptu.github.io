@@ -1,4 +1,4 @@
-## IA FPTU
+## IA FPTU RESOURCES AND NEWS
 
 This page contains some resources related to IA courses in FPT University
 
