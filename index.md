@@ -1,6 +1,8 @@
 ## IA FPTU RESOURCES AND NEWS
 
 *This page contains some resources related to IA courses in FPT University*
+![FPTU Logo](http://fpt.edu.vn/Content/images/assets/Logo-FU-03.png)
+
 
 ### Markdown
 
