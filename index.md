@@ -6,7 +6,7 @@
 
 ### AES VISUALIZATION TOOL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*This is a learning tool / visualization of the AES encryption process*
 
 ```markdown
 Syntax highlighted code block
